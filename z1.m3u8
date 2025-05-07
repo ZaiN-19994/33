@@ -1,10 +1,6 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2409824,RESOLUTION=1920x1080,FRAME-RATE=23.976,CODECS="avc1.640028,mp4a.40.2"
-https://r465--8katnn5px.c.scdns.io/stream/v1/hls/dn7mgNtf001_L-a6dxh9EQ/1746635521/web184.faselhd.cafe/all/154.182.188.46/no/EG/0/08-02/3/01d7b660408b6eae4cd057a54d3685e2/160_hd1080b_playlist.m3u8
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1168080,RESOLUTION=1280x720,FRAME-RATE=23.976,CODECS="avc1.4d401e,mp4a.40.2"
-https://r465--8katnn5px.c.scdns.io/stream/v1/hls/r4u0G_ZhFUG7srLEE6VxdQ/1746635521/web184.faselhd.cafe/all/154.182.188.46/no/EG/0/08-02/3/01d7b660408b6eae4cd057a54d3685e2/155_hd720b_playlist.m3u8
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=295728,RESOLUTION=640x360,FRAME-RATE=23.976,CODECS="avc1.4d401e,mp4a.40.2"
 https://r465--8katnn5px.c.scdns.io/stream/v1/hls/-t0gVQ8oCYYyCIjC1vykiQ/1746635521/web184.faselhd.cafe/all/154.182.188.46/no/EG/0/08-02/3/01d7b660408b6eae4cd057a54d3685e2/140_sd360b_playlist.m3u8
-
+#EXT-X-ARTIST: "الفيلم"
+#EXT-X-TITLE: "اسم الفيلم"
+#EXT-X-COVER-IMAGE: "https://em-content.zobj.net/source/microsoft-teams/337/new-moon-face_1f31a.png"
