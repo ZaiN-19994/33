@@ -1,4 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1920x1080,FRAME-RATE=30,CODECS="avc1.640028,mp4a.40.2"
-https://stream.sainaertebat.com/hls2/bein1.m3u8
-
+https://5.korach.online/hls/0/stream.m3u8
