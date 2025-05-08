@@ -8,4 +8,4 @@ https://r465--8katnn5px.c.scdns.io/stream/v1/hls/o2-HWxIR488zzTftF9X_yA/17467394
 
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
 https://r465--8katnn5px.c.scdns.io/stream/v1/hls/S4FLoFu5LvgSue-3yM5ImA/1746739406/web184.faselhd.cafe/all/102.41.38.85/no/EG/0/08-02/3/01d7b660408b6eae4cd057a54d3685e2/140_sd360b_playlist.m3u8
-#EXT-X-PLAYLIST-TYPE:LIVE
+#EXT-X-PLAYLIST-TYPE:EVENT
