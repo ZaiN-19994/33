@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1600000,RESOLUTION=1920x1080
-https://zain-19994.github.io/master/videos/live.php
+#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=1920x1080
+https://zain-19994.github.io/master/v2/master.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
-https://stream.sainaertebat.com/hls2/bein1.m3u8
+https://vertyuz.xyz/hls/stream.m3u8?Key=5jad9ZT3NdpeuYYPC_I07A&Expires=1746983710
 #EXT-X-STREAM-INF:BANDWIDTH=1300000,RESOLUTION=1280x320
-https://vertyuz.xyz/hls/stream.m3u8?Key=sN8dnrYENK3C9KceD3GeJQ&Expires=1746746870
+https://stream.sainaertebat.com/hls2/bein1.m3u8
